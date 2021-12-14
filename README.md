@@ -5,6 +5,8 @@ updates: The current MUG500+ Figshare repo (https://figshare.com/articles/datase
 
 ![manually designed implant](https://ars.els-cdn.com/content/image/1-s2.0-S2352340921008003-gr4_lrg.jpg)
 
+interactive implant design tutorial: https://www.youtube.com/watch?v=FzaR3ydjaSc
+
 
 If you use any part of the dataset, please use the following reference:
 
