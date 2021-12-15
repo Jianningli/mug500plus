@@ -8,7 +8,7 @@ updates: The current MUG500+ Figshare repo (https://figshare.com/articles/datase
 interactive implant design tutorial: https://www.youtube.com/watch?v=FzaR3ydjaSc
 
 
-If you use any part of the dataset, please use the following reference:
+If you use any part of the dataset, please use the following reference in your publications:
 
 ```
 @article{li2021mug500+,
