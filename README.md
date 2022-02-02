@@ -2,7 +2,7 @@
 
 [[MUG500+ Figshare repo](https://figshare.com/articles/dataset/MUG500_Repository/9616319)]
 [[Implant design tutorial](https://www.youtube.com/watch?v=FzaR3ydjaSc)]
-
+![manually designed implant](https://ars.els-cdn.com/content/image/1-s2.0-S2352340921008003-gr4_lrg.jpg)
 ### folder structure
 Due to size restrictions, the Figshare folder structure is different from what is described in the article. 
 
@@ -33,18 +33,31 @@ Due to size restrictions, the Figshare folder structure is different from what i
 └──A0041-A0045.zip 
 └──... 
 └──A0491-A0495.zip 
-└──A0496-A0500.zip 
- 
+   └──A0491-A0495
+      └──A0491
+         └──A0491.nrrd
+         └──A0491.png
+         └──A0491.stl
+         └──A0491_clear.stl   
+      └──A0492
+      └──A0493
+      └──A0494
+      └──A0495
+└──A0496-A0500.zip
+   └──A0496-A0500
+      └──A0496
+      └──A0497
+      └──A0498
+      └──A0499
+      └──A0500 
 
 ```
  
 
+### dataset maintenance log
+We thank the dataset users for finding these issues. Further issues can be reported to jianningli.me@gmail.com 
 
-![manually designed implant](https://ars.els-cdn.com/content/image/1-s2.0-S2352340921008003-gr4_lrg.jpg)
-
-
-
-```dataset maintenance log
+```
 file naming issues 
 └── 
 └── 
