@@ -3,7 +3,8 @@
 [[MUG500+ Figshare repo](https://figshare.com/articles/dataset/MUG500_Repository/9616319)]
 [[Implant design tutorial](https://www.youtube.com/watch?v=FzaR3ydjaSc)]
 
-###folder structure
+### folder structure
+Due to size restrictions, the Figshare folder structure is different from what is described in the article. 
 
 ```
 .zip
@@ -24,10 +25,19 @@
    └──B0029  
       └──B0029.nrrd
       └──B0029.stl
-      └──B0029_implant.stl  
-```
+      └──B0029_implant.stl 
+└──A0001-A0020.zip      
+└──A0021-A0030.zip        
+└──A0031-A0035.zip        
+└──A0036-A0040.zip   
+└──A0041-A0045.zip 
+└──... 
+└──A0491-A0495.zip 
+└──A0496-A0500.zip 
+ 
 
-Due to size restrictions, the Figshare folder structure is different from what is described in the article.  
+```
+ 
 
 
 ![manually designed implant](https://ars.els-cdn.com/content/image/1-s2.0-S2352340921008003-gr4_lrg.jpg)
