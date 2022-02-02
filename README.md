@@ -1,4 +1,4 @@
-### MUG500+: Database of 500 high-resolution healthy human skulls and 29 craniotomy skulls and implants (https://www.sciencedirect.com/science/article/pii/S2352340921008003)
+### (MUG500+: Database of 500 high-resolution healthy human skulls and 29 craniotomy skulls and implants)[https://www.sciencedirect.com/science/article/pii/S2352340921008003]
 
 updates: The current MUG500+ Figshare repo (https://figshare.com/articles/dataset/MUG500_Repository/9616319) is complete! Due to size restrictions of Figshare, the folder structure of the dataset is different from what is described in the article.  
 
