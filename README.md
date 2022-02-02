@@ -2,8 +2,22 @@
 
 [[MUG500+ Figshare repo](https://figshare.com/articles/dataset/MUG500_Repository/9616319)]
 [[Implant design tutorial](https://www.youtube.com/watch?v=FzaR3ydjaSc)]
-[Paper](https://www.sciencedirect.com/science/article/pii/S2352340921008003)
+[[Paper](https://www.sciencedirect.com/science/article/pii/S2352340921008003)]
 ![manually designed implant](https://ars.els-cdn.com/content/image/1-s2.0-S2352340921008003-gr4_lrg.jpg)
+
+### dataset maintenance log
+We thank the dataset users for finding these issues. Further issues can be reported to jianningli.me@gmail.com 
+
+```
+file naming issues 
+└── 
+└── 
+└── 
+└── 
+└── 02.02.2022:  naming issues for case A0089, A0171, A0186, A0441 were fixed
+```
+
+
 ### folder structure
 Due to size restrictions, the Figshare folder structure is different from what is described in the article. 
 
@@ -53,19 +67,7 @@ Due to size restrictions, the Figshare folder structure is different from what i
       └──A0500 
 
 ```
- 
 
-### dataset maintenance log
-We thank the dataset users for finding these issues. Further issues can be reported to jianningli.me@gmail.com 
-
-```
-file naming issues 
-└── 
-└── 
-└── 
-└── 
-└── 02.02.2022:  naming issues for case A0089, A0171, A0186, A0441 were fixed
-```
 
 
 
