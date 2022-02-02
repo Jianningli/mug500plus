@@ -3,7 +3,10 @@
 [[MUG500+ Figshare repo](https://figshare.com/articles/dataset/MUG500_Repository/9616319)]
 [[Implant design tutorial](https://www.youtube.com/watch?v=FzaR3ydjaSc)]
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2352340921008003)]
+
+----
 ![manually designed implant](https://ars.els-cdn.com/content/image/1-s2.0-S2352340921008003-gr4_lrg.jpg)
+----
 
 ### dataset maintenance log
 We thank the dataset users for finding these issues. Further issues can be reported to jianningli.me@gmail.com 
