@@ -1,9 +1,33 @@
 #### [MUG500+: Database of 500 high-resolution healthy human skulls and 29 craniotomy skulls and implants](https://www.sciencedirect.com/science/article/pii/S2352340921008003)
 
-[MUG500+ Figshare repo](https://figshare.com/articles/dataset/MUG500_Repository/9616319)
-[Implant design tutorial](https://www.youtube.com/watch?v=FzaR3ydjaSc)
+[[MUG500+ Figshare repo](https://figshare.com/articles/dataset/MUG500_Repository/9616319)]
+[[Implant design tutorial](https://www.youtube.com/watch?v=FzaR3ydjaSc)]
 
-Due to size restrictions of Figshare, the folder structure of the dataset is different from what is described in the article.  
+###folder structure
+
+```
+.zip
+└──A0001.png (preview)
+└──craniotomy_skull.zip
+   └──B0001
+      └──B0001.nrrd
+      └──B0001.stl
+      └──B0001_implant.stl     
+   └──B0002
+      └──B0002.nrrd
+      └──B0002.stl
+      └──B0002_implant.stl   
+   └──B0003
+      └──...   
+   └──...
+      └──... 
+   └──B0029  
+      └──B0029.nrrd
+      └──B0029.stl
+      └──B0029_implant.stl  
+```
+
+Due to size restrictions, the Figshare folder structure is different from what is described in the article.  
 
 
 ![manually designed implant](https://ars.els-cdn.com/content/image/1-s2.0-S2352340921008003-gr4_lrg.jpg)
