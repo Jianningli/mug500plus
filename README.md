@@ -13,7 +13,10 @@ Due to size restrictions of Figshare, the folder structure of the dataset is dif
 ```dataset maintenance log
 file naming issues 
 └── 
-└── 02.02.2022:  
+└── 
+└── 
+└── 
+└── 02.02.2022:  naming issues for case A0089, A0171, A0186, A0441 were fixed
 ```
 
 
