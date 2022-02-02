@@ -4,7 +4,7 @@
 [[Implant design tutorial](https://www.youtube.com/watch?v=FzaR3ydjaSc)]
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2352340921008003)]
 
-----
+---
 ![manually designed implant](https://ars.els-cdn.com/content/image/1-s2.0-S2352340921008003-gr4_lrg.jpg)
 ----
 
